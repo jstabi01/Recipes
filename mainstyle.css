@@ -1,6 +1,6 @@
 h1 {
-	color: purple;
-	background-color: thistle;
+	color: blue;
+	background-color: aquamarine;
 	text-align: center;
 	font-family: serif;
 	border: 4px ridge rgb(16, 79, 99);
@@ -33,9 +33,6 @@ h1 {
 
 body {
 	background-color: rgb(191, 237, 255);
-}
-img:hover {
-	border: 3px solid purple;
 }
 .topnav {
 	background-color: rgb(191, 237, 255);
